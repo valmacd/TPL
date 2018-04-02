@@ -1,0 +1,140 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.lineGraph {
+  width: 100vw;
+}
+
+
+.borderAround {
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-bottom: 2%;
+  padding-top: 2%;
+  width: 100vw;
+  background-color: rgb(255, 192, 109);
+  /* margin: 20px; */
+  margin-top:25px;
+  /* margin-bottom: 25px;
+  border-width: 20px; */
+  margin-right: -50%;
+  background-color: rgb(255,87,34);
+}
+
+.colorPalette {
+  background-color: rgb(246, 251, 255);
+  color: rgb(42,77,105);
+}
+
+body {
+  background-color: rgb(42,77,105);
+  margin-bottom: 10px;
+}
+
+.table-hover tbody tr:hover td {
+  background: rgb(182, 202, 219);
+}
+
+.nameLink, .toggles {
+  color:rgb(42,77,105);
+}
+
+.header {
+  background-color: rgb(42,77,105);
+  color: #FFFFFF;
+}
+
+.title {
+  font-family: 'Noticia Text', serif;
+  color:#FFFFFF;
+  text-shadow: -1px 0 rgb(42,77,105), 0 1px rgb(42,77,105), 1px 0 rgb(42,77,105), 0 -2px rgb(42,77,105);
+  font-size: 300% !important;
+}
+
+.playerName {
+  font-weight: bold;
+}
+
+.playerName:hover {
+  font-weight: bold;
+  color:white;
+}
+
+.lineGraph {
+  background-color: rgb(255, 255, 255);
+}
+
+.homepage {
+  font-size: 1500%;
+  color:rgb(255,87,34);
+  font-family: 'Noticia Text', serif;
+  text-shadow: -1px 0 rgb(182, 202, 219), 0 2px rgb(182, 202, 219), 4px 0 rgb(182, 202, 219), 0 -2px rgb(182, 202, 219);
+}
+
+.homeblurb {
+  /* padding: 5% 0%;
+  margin-bottom: 7%; */
+  font-size: 100%;
+  color:rgb(255,87,34);
+  font-family: 'Noticia Text', serif;
+  text-shadow: -1px 0 rgb(42,77,105), 0 1px rgb(42,77,105), 1px 0 rgb(42,77,105), 0 -1px rgb(42,77,105);  
+}
+.homepageblurb {
+  padding: 1% 0%;
+  margin-bottom: 7%;
+  font-family: 'Noticia Text', serif;
+  background-color: rgb(182, 202, 219);
+}
+
+.homepageEnter {
+  font-size: 200%;
+  color:rgb(255,87,34);
+  font-family: 'Noticia Text', serif; 
+}
+
+.backButton {
+  height: 24px;
+}
+
+img {
+  height: 300px;
+  margin: 2px;
+}
+
+.footer {
+  font-size: 70%;
+  color:rgb(42,77,105);
+  font-family: 'Noticia Text', serif; 
+}
+
+.stylingNav {
+  background-color:rgb(42,77,105);
+}
+
+.navMenu {
+  color: #FFFFFF;
+  position: absolute;
+  right: 5px;
+  border-radius: 5px;
+  border: white thin solid;
+  padding: 6px;
+  margin-top: 5px;
+}
+
+.navMenu:hover {
+  color: #FFFFFF;
+}
+
+.teamSearch {
+  width: 100%;
+  background-color: rgb(42,77,105);
+  color: #FFFFFF;
+  margin-top: 10px;
+}
+
+.rosterSelect {
+  width: 70%;
+}

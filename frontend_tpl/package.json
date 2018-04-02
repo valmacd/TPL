@@ -1,0 +1,30 @@
+{
+  "name": "frontend_tpl",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^3.3.0",
+    "axios": "^0.18.0",
+    "chart.js": "^2.7.2",
+    "materialize-css": "^0.100.2",
+    "react": "^16.2.0",
+    "react-chartjs-2": "^2.7.0",
+    "react-dom": "^16.2.0",
+    "react-responsive-carousel": "^3.1.33",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.1",
+    "underscore": "^1.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
